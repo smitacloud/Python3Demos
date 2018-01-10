@@ -1,0 +1,4 @@
+#!/usr/bin/python
+str="hello"
+print(str,"\n","bye")
+print(str*5,"\t","bye")
